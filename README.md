@@ -1,6 +1,6 @@
 # All Restaurants in Miami, Florida, US
 
-> Free BeamStation sample export with 190 rows and masked direct-contact fields.
+> Free BeamStation sample export with 232 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `731998` |
 | Location | Miami |
 | Category | Restaurants |
-| Full dataset size | 1,900 records |
-| Free sample size | 190 records (10.0%) |
-| Last export | 2026-04-21T18:36:30.555756+00:00 |
+| Full dataset size | 2,329 records |
+| Free sample size | 232 records (9.96%) |
+| Last export | 2026-04-28T19:58:50.657615+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-miami-florida-us-sample-731998/releases/download/sample-latest/beamstation_731998_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
