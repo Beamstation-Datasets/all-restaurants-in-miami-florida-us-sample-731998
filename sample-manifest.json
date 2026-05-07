@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c686d6f4-0fff-4e66-bdbb-7f5a5df08c9b",
+  "export_job_id": "b4a79c95-df65-43e6-8cc4-abe46fd8ce50",
   "id_short": 731998,
-  "published_at": "2026-04-29T07:06:19Z",
+  "published_at": "2026-05-07T19:08:32Z",
   "repo_name": "all-restaurants-in-miami-florida-us-sample-731998",
   "sample_asset_name": "beamstation_731998_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/731998/beamstation_731998_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 232,
-  "sample_sha256": "dc581fb4117df22a1ebe78ec90ccd3d796c97c68a9a9e402503d836d816d43d2",
-  "sample_size_bytes": 780287,
-  "total_records": 2329
+  "sample_records": 269,
+  "sample_sha256": "46ca3ca31fe6d23afb93f0eee1b78a0b0b7ea024219c4370c4f31caa3787fbd1",
+  "sample_size_bytes": 841929,
+  "total_records": 2696
 }
